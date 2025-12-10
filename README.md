@@ -26,17 +26,6 @@ Cada solução está organizada em sua própria pasta. Para executar uma soluç�
 
 **Nota:** Certifique-se de que o arquivo `input.txt` está presente na mesma pasta do `main.go` com os dados de entrada do desafio.
 
-
-## ✅ Desafios Resolvidos
-
-### Day 1
-- **Parte 1**: Solução para o primeiro desafio do dia 1
-- **Descrição**: Implementa um sistema de rotação que processa instruções de direção (L/R) e distância, contando quantas vezes a posição retorna a 0.
-
-### Day 2
-- **Parte 1**: Identifica IDs inválidos onde o número é dividido em duas metades iguais
-- **Parte 2**: Identifica IDs inválidos onde o número pode ser dividido em múltiplos segmentos iguais
-
 ## 🛠️ Requisitos
 
 - Go 1.21 ou superior
